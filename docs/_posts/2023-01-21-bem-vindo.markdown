@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Bem vindo!"
+---
+Seja bem vindo. A ideia desse espaço é trazer muito conteúdo relacionado a Engenharia de Confiabilidade.
