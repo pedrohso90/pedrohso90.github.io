@@ -12,4 +12,4 @@ Apesar desse pensamento (rs) segue algumas techs que trabalho: AWS (ECS, API Gat
 
 Por fim, hoje eu trabalho no papel de Staff/Especialista em alguns times que atuam como SRE. Nosso guia é o SRE Book do Google. Nossa meta é diminuir o toil com automações e aumentar a produtividade com soluções inovadoras. Também acredito muito em uma documentação bem estruturada, que ela fornece o benefício da continuidade do trabalho e consequentemente do negócio.
 
-Segue meu GitHub pra saber um pouco mais o que tenho feito: https://github.com/pedrohso90
+Segue meu GitHub pra saber um pouco mais o que tenho feito: [https://github.com/pedrohso90](https://github.com/pedrohso90)
